@@ -29,6 +29,10 @@ API使用免费额度：2个/人
 
 [0303-国内城市天气指数](https://ai.luzhi.online/HomeApiDetails?aid=APIhpt79enmcx78ktt3jrun5cr2kd6)
 
+[0304-热门电影及票房](https://ai.luzhi.online/HomeApiDetails?aid=API6yv67szfds63zs64wyi5cfvj6cw)
+
+
+
 ## 04-开发者/站长服务
 [0401-IP归属地查询](https://github.com/LuZhi-Tech/APIs/blob/master/04%E5%BC%80%E5%8F%91%E8%80%85-%E7%AB%99%E9%95%BF%E6%9C%8D%E5%8A%A1/0401IP%E5%BD%92%E5%B1%9E%E5%9C%B0%E6%9F%A5%E8%AF%A2%20.md)
 
