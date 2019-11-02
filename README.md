@@ -38,3 +38,6 @@ API使用免费额度：2个/人
 
 [0402-生成二维码](https://github.com/LuZhi-Tech/APIs/blob/master/04%E5%BC%80%E5%8F%91%E8%80%85-%E7%AB%99%E9%95%BF%E6%9C%8D%E5%8A%A1/0402%E7%94%9F%E6%88%90%E4%BA%8C%E7%BB%B4%E7%A0%81%20.md)
 
+
+
+## 10-语义处理（意图识别）
