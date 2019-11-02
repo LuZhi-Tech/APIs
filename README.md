@@ -41,3 +41,4 @@ API使用免费额度：2个/人
 
 
 ## 10-语义处理（意图识别）
+[1001-天气查询语义处理](https://github.com/LuZhi-Tech/APIs/blob/master/10%E8%AF%AD%E4%B9%89%E5%A4%84%E7%90%86%EF%BC%88%E6%84%8F%E5%9B%BE%E8%AF%86%E5%88%AB%EF%BC%89/1001%E5%A4%A9%E6%B0%94%E6%9F%A5%E8%AF%A2%E8%AF%AD%E4%B9%89%E8%AF%86%E5%88%AB.md)
